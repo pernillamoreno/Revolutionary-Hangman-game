@@ -1,4 +1,4 @@
-# Revolutionary_Hangman
+# Revolutionary-Hangman
 
 Kunden har en revolutionerande idé för spelet hänga gubben (i javafx) där respektive spelare har sin egna gubbe. 
 Målet i spelet är att hänga den andras gubbe innan ens egna hängs.
